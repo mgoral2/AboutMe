@@ -20,7 +20,7 @@ const SwitchVariables = {
     ThanksPicture: require('./images/Thanks.jpg')
   },
   Paragraphs: {
-    UICParagraph: `Matt has a degree in Computer Hardware Engineering from The University of Illinois at Chicago.  He took classes such as Physics, VLSI Design and Microchip Manufacturing.  He was also a member of Engineering Design Team, where he competed in various robotics competitions and learned about topics ranging from embedded engineering to neural networks.`,
+    UICParagraph: `Matt has a degree in Computer Hardware Engineering from The University of Illinois at Chicago.  He took classes such as Physics, VLSI Design and Microchip Manufacturing.  He was also a member of Engineering Design Team, where he competed in various robotics competitionsand gained exposure to embedded systems and machine learning.`,
     EDTParagraph: `While at The University of Illinois at Chicago, Matt was a member of Engineering Design Team.  He worked mainly on the Intelligent Ground Vehicle Competition (IGVC), where he helped with embedded design.  He also designed PCBs for the team, and gained exposure to Tensorflow.  The team placed third in Design.`,
     TennisParagraph: 'Matt was a highly successful tennis player in high school, having defeated top ten opponents in the country, winning a national doubles tournament, and defeating eventual Junior French Open Champion Bjorn Fratangelo.',
     FunParagraph: 'In his free time, Matt enjoys playing guitar, reading books, watching movies, and developing software.',
